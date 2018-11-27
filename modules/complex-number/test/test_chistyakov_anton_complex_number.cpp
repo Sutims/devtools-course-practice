@@ -1,7 +1,7 @@
 // Copyright 2018 Chistyakov Anton
 
 #include <gtest/gtest.h>
-
+#include <limits>
 #include "include/complex_number.h"
 
 TEST(Chistyakov_Anton_ComplexNumberTest, Zero_Property) {
